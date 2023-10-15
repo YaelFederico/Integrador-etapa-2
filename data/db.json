@@ -1,0 +1,228 @@
+{
+  "productos": [
+    {
+      "nombre": "Bucal Artes Marciales Leoene",
+      "foto": "img/bucal-leone.jpg",
+      "detalles": "Lorem ipsum dolor sit, amet consectetur adipisicing.",
+      "precio": 250.5,
+      "stock": "4444",
+      "marca": "Leone",
+      "categoria": "Bucal",
+      "id": 1,
+      "envio": false
+    },
+    {
+      "nombre": "Bucal Artes Marciales UFC",
+      "foto": "img/bucal-ufc.jpg",
+      "detalles": "Quasi cupiditate quisquam facere molestiae",
+      "precio": 240.3,
+      "stock": "4",
+      "marca": "UFC",
+      "categoria": "Bucal",
+      "id": 2,
+      "envio": true
+    },
+    {
+      "nombre": "Bucal Venum Boxeo",
+      "foto": "img/bucal-venum.jpg",
+      "detalles": "Saepe enim ipsa facilis velit quidem voluptatibus totam dicta",
+      "precio": 985,
+      "stock": 4,
+      "marca": "Venum",
+      "categoria": "Bucal",
+      "id": 3,
+      "envio": false
+    },
+    {
+      "nombre": "Cabezal protector Boxeo Adidas",
+      "detalles": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "foto": "img/cabezal-adidas.jpg",
+      "precio": 678,
+      "stock": 7,
+      "marca": "Adidas",
+      "categoria": "Cabezal",
+      "id": 4,
+      "envio": true
+    },
+    {
+      "nombre": "Cabezal Protector DRG",
+      "detalles": "Facere molestiae odio neque rerum provident voluptas",
+      "foto": "img/cabezal-drg.jpg",
+      "precio": 1200,
+      "stock": 4,
+      "marca": "DRG",
+      "categoria": "Cabezal",
+      "id": 5,
+      "envio": true
+    },
+    {
+      "id": 6,
+      "nombre": "Guantes Everlast Pro Style",
+      "precio": 332.22,
+      "stock": 4,
+      "marca": "Everlast",
+      "categoria": "Guantes",
+      "detalles": "Natus iure quasi cupiditate quisquam facere molestiae odio neque rerum provident voluptas!",
+      "foto": "img/everlast-pro-style.jpg",
+      "envio": true
+    },
+    {
+      "id": 7,
+      "nombre": "Guantes Bonavena 14oz",
+      "precio": 333.22,
+      "stock": 2,
+      "marca": "Bonavena",
+      "categoria": "Guantes",
+      "detalles": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "foto": "img/guantes-bonavena.jpg",
+      "envio": false
+    },
+    {
+      "id": 8,
+      "nombre": "Guantes Corti",
+      "precio": "2333",
+      "stock": "2",
+      "marca": "Corti",
+      "categoria": "Guantes",
+      "detalles": "Piola. 8k",
+      "foto": "img/guantes-corti.jpg",
+      "envio": true
+    },
+    {
+      "id": 9,
+      "nombre": "Vendas Charlie",
+      "precio": "2333",
+      "stock": "2",
+      "marca": "Charlie",
+      "categoria": "vendas",
+      "detalles": "Piola. 8k",
+      "foto": "img/vendas-charlie.jpg",
+      "envio": true
+    },
+    {
+      "id": 10,
+      "nombre": "Vendas Everlast",
+      "precio": "2333",
+      "stock": "2",
+      "marca": "Everlast",
+      "categoria": "Vendas",
+      "detalles": "Piola. 8k",
+      "foto": "img/vendas-everlast.jpg",
+      "envio": true
+    }
+  ],
+  "carrito": [
+    [
+      {
+        "nombre": "Bucal Artes Marciales Leoene",
+        "foto": "img/bucal-leone.jpg",
+        "detalles": "Lorem ipsum dolor sit, amet consectetur adipisicing.",
+        "precio": 250.5,
+        "stock": "4444",
+        "marca": "Leone",
+        "categoria": "Bucal",
+        "id": 1,
+        "envio": false
+      },
+      {
+        "nombre": "Bucal Artes Marciales UFC",
+        "foto": "img/bucal-ufc.jpg",
+        "detalles": "Quasi cupiditate quisquam facere molestiae",
+        "precio": 240.3,
+        "stock": "4",
+        "marca": "UFC",
+        "categoria": "Bucal",
+        "id": 2,
+        "envio": true
+      },
+      {
+        "nombre": "Bucal Venum Boxeo",
+        "foto": "img/bucal-venum.jpg",
+        "detalles": "Saepe enim ipsa facilis velit quidem voluptatibus totam dicta",
+        "precio": 985,
+        "stock": 4,
+        "marca": "Venum",
+        "categoria": "Bucal",
+        "id": 3,
+        "envio": false
+      },
+      {
+        "nombre": "Cabezal protector Boxeo Adidas",
+        "detalles": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "foto": "img/cabezal-adidas.jpg",
+        "precio": 678,
+        "stock": 7,
+        "marca": "Adidas",
+        "categoria": "Cabezal",
+        "id": 4,
+        "envio": true
+      },
+      {
+        "nombre": "Cabezal Protector DRG",
+        "detalles": "Facere molestiae odio neque rerum provident voluptas",
+        "foto": "img/cabezal-drg.jpg",
+        "precio": 1200,
+        "stock": 4,
+        "marca": "DRG",
+        "categoria": "Cabezal",
+        "id": 5,
+        "envio": true
+      },
+      {
+        "id": 6,
+        "nombre": "Guantes Everlast Pro Style",
+        "precio": 332.22,
+        "stock": 4,
+        "marca": "Everlast",
+        "categoria": "Guantes",
+        "detalles": "Natus iure quasi cupiditate quisquam facere molestiae odio neque rerum provident voluptas!",
+        "foto": "img/everlast-pro-style.jpg",
+        "envio": true
+      },
+      {
+        "id": 7,
+        "nombre": "Guantes Bonavena 14oz",
+        "precio": 333.22,
+        "stock": 2,
+        "marca": "Bonavena",
+        "categoria": "Guantes",
+        "detalles": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "foto": "img/guantes-bonavena.jpg",
+        "envio": false
+      },
+      {
+        "id": 8,
+        "nombre": "Guantes Corti",
+        "precio": "2333",
+        "stock": "2",
+        "marca": "Corti",
+        "categoria": "Guantes",
+        "detalles": "Piola. 8k",
+        "foto": "img/guantes-corti.jpg",
+        "envio": true
+      },
+      {
+        "id": 9,
+        "nombre": "Vendas Charlie",
+        "precio": "2333",
+        "stock": "2",
+        "marca": "Charlie",
+        "categoria": "vendas",
+        "detalles": "Piola. 8k",
+        "foto": "img/vendas-charlie.jpg",
+        "envio": true
+      },
+      {
+        "id": 10,
+        "nombre": "Vendas Everlast",
+        "precio": "2333",
+        "stock": "2",
+        "marca": "Everlast",
+        "categoria": "Vendas",
+        "detalles": "Piola. 8k",
+        "foto": "img/vendas-everlast.jpg",
+        "envio": true
+      }
+    ]
+  ]
+}

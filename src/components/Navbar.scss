@@ -1,0 +1,49 @@
+@use "../utils/variables";
+
+/* ------------------------------------------------- */
+/* NAVBAR                                            */
+/* ------------------------------------------------- */
+
+.nav-bar {
+    width: 100%;
+    height: 100px;
+  
+    &__nav-list {
+      /* .nav-bar__nav-list */
+      display: flex;
+      list-style-type: none;
+      justify-content: space-evenly;
+  
+      @media (max-width: 768px) {
+        & {
+          flex-direction: column;
+        }
+      }
+    }
+  
+    &__nav-item {
+      text-align: center;
+    }
+  
+    &__nav-link {
+      display: block;
+      width: 120px;
+      margin-top: 25px;
+      font-family: "Ysabeau SC", sans-serif;
+      background-color: variables.$color-fondo-opacity;
+      color: variables.$color-fuente-1;
+      font-size: large;
+      font-weight: bold;
+      padding: 0.5em 1em;
+      text-decoration: none;
+      border: solid 2px variables.$color-fuente-1;
+      border-radius: 3px;
+      box-shadow: variables.$box-shadow-1;
+    }
+  
+    @media (max-width: 768px) {
+      & {
+        display: none;
+      }
+    }
+  }
