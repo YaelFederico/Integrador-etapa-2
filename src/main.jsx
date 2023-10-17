@@ -4,6 +4,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom'
 
 import './index.scss'
 
+import './utils/_variables.scss'
 import Inicio from './pages/Inicio'
 import Alta from './pages/Alta'
 import Nosotros from './pages/Nosotros'
@@ -13,6 +14,9 @@ import Header from './components/Header'
 import Footer from './components/Footer'
 import { ProductoProvider } from './contexts/ProductoContext'
 import { CarritoProvider } from './contexts/CarritoContext'
+
+
+
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
@@ -31,6 +35,8 @@ ReactDOM.createRoot(document.getElementById('root')).render(
             <Route path="*" element={<Inicio />} />
           </Routes>
         
+
+          
           <Footer />
 
         </BrowserRouter>

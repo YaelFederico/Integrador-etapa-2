@@ -15,27 +15,27 @@
     &:focus {
         transform: scale(1.03) skew(0);
         transform-origin: bottom;
-        box-shadow: 0 7px 8px rgb(7, 7, 7), 0 3px 3px rgba(0,0,0, .01);
+        box-shadow: 0 7px 8px rgb(255, 255, 255), 0 3px 3px rgba(0,0,0, .01);
     }
 
     &:nth-child(5n + 1) {
-        background-image: linear-gradient(to top, #daa520 0%, #0a0a0a 30%);
+        background-image: linear-gradient(to top, #daa520 0%, #24212100 30%);
     }
 
     &:nth-child(5n + 2) {
-        background-image: linear-gradient(to top, #daa520 0%, #000000 30%);
+        background-image: linear-gradient(to top, #daa520 0%, #00000000 30%);
     }
 
     &:nth-child(5n + 3) {
-        background-image: linear-gradient(to top, #daa520 0%, #000000 30%);
+        background-image: linear-gradient(to top, #daa520 0%, #00000000 30%);
     }
 
     &:nth-child(5n + 4) {
-        background-image: linear-gradient(to top, #daa520 0%, #000000 30%);
+        background-image: linear-gradient(to top, #daa520 0%, #00000000 30%);
     }
 
     &:nth-child(5n + 5) {
-        background-image: linear-gradient(to top, #daa520 0%, #000000 30%);
+        background-image: linear-gradient(to top, #daa520 0%, #00000000 30%);
     }
 
     &__image-container {

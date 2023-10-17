@@ -14,7 +14,7 @@ const Nosotros = () => {
         marcial, el boxeador profesional, amateur y el aficionado que esta
         comenzando en el camino del deporte de contacto.</p>
 
-        <p className="section-nosotros__p">Desde la primera venta hasta la ultima buscamos la calidad y el confort que no podes encontrar en otra tienda de argentina, tenemos lo que buscas. SOMOS BOXing Store ARGENTINA.</p>
+        <p className="section-nosotros__p">Desde la primer venta hasta la ultima buscamos la calidad y el confort que no podes encontrar en otra tienda de argentina, tenemos lo que buscas. SOMOS BOXing Store ARGENTINA.</p>
         
       </div>
       </>
